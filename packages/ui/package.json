@@ -1,0 +1,8 @@
+{
+  "name": "@project/ui",
+  "version": "1.0.0",
+  "dependencies": {
+    "@project/utils": "^1.0.0"
+  },
+  "license": "MIT"
+}
