@@ -37,3 +37,5 @@ cd packages/app
 yarn build
 yarn start
 ```
+
+**Read more in the [article](https://webman.pro/blog/how-to-setup-typescript-path-aliases-in-lerna-monorepo/)**.
